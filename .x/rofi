@@ -1,0 +1,20 @@
+rofi.terminal:          /usr/bin/urxvt
+rofi.run-shell-command: /usr/bin/urxvt -e '{cmd}'
+rofi.location:      0
+!rofi.width:        80
+rofi.padding:       8
+rofi.borderwidth:   0
+rofi.lines:         8
+rofi.font:          gmnterm 8
+rofi.bordercolor:   bg
+rofi.highlightbg:   fg
+rofi.background:    bg
+rofi.highlightfg:   bg
+rofi.foreground:    fg
+rofi.levenshtein-sort: true
+! Fullscreen
+rofi.fullscreen: false
+! Fake transparency
+rofi.fake-transparency: true
+! Window opacity
+rofi.opacity: 80

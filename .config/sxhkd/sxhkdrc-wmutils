@@ -1,0 +1,47 @@
+super + p
+    dmenu_run -b
+
+super + shift + Return
+    urxvt -name sid
+
+super + shift + c
+    ukll -w $(ufw)
+
+super + Down
+	umv -y 20 -w $(ufw)
+
+super + Up
+	umv -y -20 -w $(ufw)
+
+super + Right
+	umv -x 20 -w $(ufw)
+
+super + Left
+	umv -x -20 -w $(ufw)
+
+super + shift + Down
+	urs -y 20 -w $(ufw)
+
+super + shift + Up
+	urs -y -20 -w $(ufw)
+
+super + shift + Right
+	urs -x 20 -w $(ufw)
+
+super + shift + Left
+	urs -x -20 -w $(ufw)
+
+super + m
+	sh ~/etc/scripts/fullscreen.sh $(pfw)
+
+super + Tab
+	sh ~/etc/scripts/focus.sh next
+
+super + g
+	sh ~/etc/scripts/middles g
+
+super + Escape
+    pkill -USR1 -x sxhkd
+
+super + shift + Q
+	pkill -x sxhkd; pkill -x 2bwm

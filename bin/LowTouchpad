@@ -1,0 +1,5 @@
+#!/bin/sh
+xinput --set-prop "ETPS/2 Elantech Touchpad" "Device Enabled" 1
+xinput --set-prop "ETPS/2 Elantech Touchpad" "Device Accel Constant Deceleration" 3
+xinput --set-prop "ETPS/2 Elantech Touchpad" "Device Accel Velocity Scaling" 1
+xinput --set-prop "ETPS/2 Elantech Touchpad" "Device Accel Profile" -1

@@ -1,0 +1,64 @@
+# launch a menu
+super + r
+        run
+
+# pop a term
+super + shift + Return
+        tln
+
+# move windows
+super + {Left,Down,Up,Right}
+        wmv {-20 0, 0 20, 0 -20, 20 0} $(pfw)
+
+# resize windows
+super + shift + {Left,Down,Up,Right}
+        wrs {-20 0, 0 20, 0 -20, 20 0} $(pfw)
+
+# switch between windows quickly
+super + Tab
+        wfw next
+
+# kill sxhkd (for config changes, must be manually reopened)
+super + Escape
+        killall sxhkd
+
+# toggle groups
+super + {1,2,3,4,5}
+        mgfw -t {1,2,3,4,5}
+
+# assign window to group
+super + shift + {1,2,3,4,5}
+        mgfw -d all; \
+        mgfw -a {1,2,3,4,5}
+
+# remove window from group
+super + shift + Return
+        mgfw -d all
+
+# close window
+super + shift + c
+        killw $(pfw)
+
+# fullscreens window
+super + f
+        fls $(pfw)
+
+# focuses the closest window
+super + {h,j,k,l}
+        cls {left,down,up,right}
+
+# puts window in a corner
+super + shift + {q,w,a,s}
+        crnr {tl,tr,bl,br}
+
+# centers window
+super + g
+        cw $(pfw)
+
+# switches between different layouts
+super + shift + {Left,Right,Up}
+        echo "$NOTILE" | grep -q "$(wname $WID)" || dytyl {default,spiral,float}
+
+# exit wmrc
+super + ctrl + q
+	pkill -x wmrc

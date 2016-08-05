@@ -1,0 +1,49 @@
+#!/bin/bash
+
+# Fix Fonts
+xset +fp ~/.fonts &
+xset fp rehash &
+
+# low brightness monitor
+#xcalib ~/.x230.icm &
+
+# font rendering
+#~/bin/infinality &
+
+# Fix X Pointer
+xsetroot -cursor_name left_ptr &
+
+# LowPointer
+LowMouse &
+
+# Load Colors
+xrdb ~/.x/xres &
+
+# Load Wallpaper
+#hsetroot -fill ~/Pictures/img/water.jpg -tint '#c7c7c7' &
+
+# Daemons and Programs
+#compton --config ~/.config/compton/compton.conf &
+#sxhkd &
+thunar --daemon &
+urxvt -q -o -f 100 &
+
+# fan
+echo 1 | sudo tee /sys/class/thermal/cooling_device0/cur_state
+
+# fix java programs
+wmname LG3D &
+
+# popup
+#(sleep 3s && popup-conky-mpc) &
+#(sleep 3s && popup-conky) &
+#(sleep 3s && mpc-notify) &
+#skrl-qu &
+
+# Panel
+# ~/bin/lbar &
+# tint2 &
+# bar-kek-kek &
+
+# Window Manager
+exec 2bwm

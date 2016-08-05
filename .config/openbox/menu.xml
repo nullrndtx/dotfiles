@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+
+<menu id="launch-menu" label="Launch">
+	<item label="Chrome">
+		<action name="Execute"><command>google-chrome-stable</command></action>
+	</item>
+	<separator />
+	<item label="FileManager">
+		<action name="Execute"><command>thunar</command></action>
+	</item>
+	<separator />
+	<item label="Music">
+		<action name="Execute"><command>urxvt -name music -e ncmpcpp</command></action>
+	</item>
+	<separator />
+	<item label="GIMP">
+		<action name="Execute"><command>gimp</command></action>
+	</item>
+	<separator />
+	<item label="GColor">
+		<action name="Execute"><command>gcolor2</command></action>
+	</item>
+	<separator />
+	<item label="Blender">
+		<action name="Execute"><command>blender</command></action>
+	</item>
+	<separator />
+	<item label="Scrot">
+        <action name="Execute"><command>xfce4-screenshooter</command></action>
+    </item>
+</menu>
+
+<menu id="system-menu" label="System">
+	<item label="Suspend">
+		<action name="sudo god --suspend" />
+	</item>
+	<separator />
+	<item label="Reconfigure Openbox">
+		<action name="Reconfigure" />
+	</item>
+	    <separator />
+	<item label="LXappearance">
+		<action name="Execute"><command>lxappearance</command></action>
+	</item>
+	<separator />
+	<item label="ObConf">
+		<action name="Execute"><command>obconf</command></action>
+	</item>
+</menu>
+
+<menu id="root-menu" label="Openbox 3">
+	<item label="URxvt">
+		<action name="Execute"><command>urxvt -name sid</command></action>
+	</item>
+	<separator />
+	<menu id="launch-menu"/>
+	<separator />
+	<menu id="system-menu"/>
+</menu>
+
+</openbox_menu>

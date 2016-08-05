@@ -1,0 +1,14 @@
+# Clock
+#/home/rndtx/.config/openbox/misc/clock.sh &
+
+# highcontrast screen
+#xcalib ~/.x230.icm  &
+
+# bmpanel2
+#bmpanel2 --theme=twily &
+
+# LowMouse
+#LowMouse &
+
+# Set bg
+#hsetroot -fill ~/Pictures/img/fizasx.jpg -contrast .85 -brightness -0.02 -blur 3 &

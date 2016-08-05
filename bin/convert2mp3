@@ -1,0 +1,10 @@
+#!/bin/sh
+
+v_=$IFS
+IFS='
+'
+for i in $@; do
+    j="${i%.*}"
+    sox "$i" "$j.wav" && lame "$j.wav" "$j.mp3" && rm -f "$j.wav" && echo "$i Converting to MP3."
+done
+IFS=v_

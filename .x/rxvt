@@ -1,0 +1,197 @@
+!-- General Settings --
+sid.dpi:			    	96
+sid.antialias: 				true
+sid.hinting: 				true
+sid.rgba: 			    	rgb
+sid.autohint: 				false
+sid.hintstyle: 				hintslight
+sid.lcdfilter: 				lcddefault
+
+!-- Color Options --
+
+!*.foreground:   blk
+!*.background:   bg
+!*.cursorColor:  wht
+
+! black
+!*.color0:       blk
+!*.color8:       blk
+
+! accent
+!*.color1:       acc
+!*.color9:       acc
+
+! accent
+!*.color2:       acc
+!*.color10:      acc
+
+! dgrey
+!*.color3:       dgry
+!*.color11:      dgry
+
+! dgrey
+!*.color4:       dgry
+!*.color12:      dgry
+
+! lgrey
+!*.color5:       lgry
+!*.color13:      lgry
+
+! lgrey
+!*.color6:       lgry
+!*.color14:      lgry
+
+! white
+!*.color7:       wht
+!*.color15:      wht
+
+!------------------------------------------------
+
+sid.geometry: 109x23
+sid.letterSpace: 0
+sid.allow_bold: true
+sid.internalBorder: 20
+sid.iconFile:   /home/rndtx/.icons/terminal.png
+
+!------------------------------------------------
+
+sid*saveLines: 2048
+!sid.scrollBar: false
+!sid*scrollstyle: plain
+sid*cursorBlink: true
+y!sid*cursorUnderline: false
+sid.scrollstyle:plain
+sid.scrollBar:false
+sid.scrollTtyOutput:false
+sid.scrollWithBuffer:true
+sid.scrollTtyKeypress:true
+
+!------------------------------------------------
+
+sid.tabbedex.autohide: no
+sid.tabbedex.tabbar-fg: 2
+sid.tabbedex.tabbar-bg: 0
+sid.tabbedex.tab-fg: 10
+sid.tabbedex.tab-bg: 0
+sid.tabbedex.title: no
+sid.tabbedex.new-button: no
+
+!------------------------------------------------
+
+!*.highlightColor: lbg
+!*.highlightTextColor: #d7d7d7
+!*color16: bg
+!*color17: lbg
+!*color18: fg
+
+!-----------------------------------------------
+
+!sid*font: xft:Terminess Powerline:Regular:size=9
+!sid*boldFont: xft:Terminess Powerline:Bold:size=9
+!sid*italicFont: xft:Terminess Powerline:Italic:size=9
+!sid*bolditalicFont: xft:Terminess Powerline:Bold:Italic:size=9
+
+!sid*font: xft:gmnterm:size=8
+!sid*boldFont: xft:gmnterm:size=8
+
+!sid.font:xft:Menlo:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldFont:xft:Menlo:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.italicFont:xft:Menlo:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldItalicFont:xft:Menlo:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+
+!sid.font:xft:Mensch for Powerline:style=RegularForPowerline:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+!sid.boldFont:xft:Mensch for Powerline:style=Regular:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+!sid.italicFont:xft:Mensch for Powerline:style=Regular:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+!sid.boldItalicFont:xft:Mensch for Powerline:style=Regular:pixelsize=10:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+
+!sid.font: xft:Fira Mono:Regular:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldFont: xft:Fira Mono:Bold:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.italicFont: xft:Fira Mono:Italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldItalicFont: xft:Fira Mono:Bold:Italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+
+!sid.font:xft:Andale Mono:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+!sid.boldFont:xft:Andale Mono:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+!sid.italicFont:xft:Andale Mono:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+!sid.boldItalicFont:xft:Andale Mono:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=false:rgba=rgb:antialias=false:autohint=false
+
+!sid.font:xft:Meslo LG L DZ for Powerline:style=RegularForPowerline:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldFont:xft:Menlo:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.italicFont:xft:Menlo:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldItalicFont:xft:Menlo:style=Regular:pixelsize=9:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+
+!sid.font:		xft:M+ 1m:regular:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldFont:	xft:M+ 1m:bold:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.italicFont: 	xft:M+ 1m:italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.bolditalicFont:	xft:M+ 1m:bold:italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+
+!sid.font:		xft:Droid Sans Mono Dotted for Powerline:regular:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldFont:	xft:Droid Sans Mono Dotted for Powerline:bold:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.italicFont: 	xft:Droid Sans Mono Dotted for Powerline:italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.bolditalicFont:	xft:Droid Sans Mono Dotted for Powerline:bold:italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+
+!sid.font:		xft:Office Code Pro D:regular:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldFont:	xft:Office Code Pro D:bold:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.italicFont: 	xft:Office Code Pro D:italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.bolditalicFont:	xft:Office Code Pro D:bold:italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+
+!sid.font:		xft:Input Mono Condensed:Medium:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.boldFont:	xft:Input Mono Condensed:Bold:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.italicFont: 	xft:Input Mono Condensed:Italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+!sid.bolditalicFont:	xft:Input Mono Condensed:Bold:italic:size=8:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false
+
+!sid.font:		xft:ProFontWindows:Regular:size=9
+!sid.boldFont:	xft:ProFontWindows:Regular:size=9
+!sid.italicFont: 	xft:ProFontWindows:Regular:size=9
+!sid.bolditalicFont:	xft:ProFontWindows:Regular:size=9
+
+!-----------------------------------------------
+
+!sid*font: -kori-metis-normal-r-normal-*-*-*-*-*-*-*-*-*
+!sid*boldFont: -kori-metis-normal-r-normal-*-*-*-*-*-*-*-*-*
+!sid*italicFont: -kori-metis-normal-r-normal-*-*-*-*-*-*-*-*-*
+!sid*bolditalicFont: -kori-metis-normal-r-normal-*-*-*-*-*-*-*-*-*
+
+!sid*font: -jmk-dweep-medium-r-semicondensed-*-*-*-*-*-*-*-*-*
+!sid*boldFont: -jmk-dweep-medium-r-semicondensed-*-*-*-*-*-*-*-*-*
+!sid*italicFont: -jmk-dweep-medium-r-semicondensed-*-*-*-*-*-*-*-*-*
+!sid*bolditalicFont: -jmk-dweep-medium-r-semicondensed-*-*-*-*-*-*-*-*-*
+
+!sid*font: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*boldFont: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*italicFont: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*bolditalicFont: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+
+!sid*font: -windows-montecarlo-medium-r-normal-*-11-*-*-*-*-*-*-*
+!sid*boldFont: -windows-montecarlo-medium-r-normal-*-11-*-*-*-*-*-*-*
+!sid*italicFont: -windows-montecarlo-medium-r-normal-*-11-*-*-*-*-*-*-*
+!sid*bolditalicFont: -windows-montecarlo-medium-r-normal-*-11-*-*-*-*-*-*-*
+
+!sid*font: -jmk-neepmod-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*boldFont: -jmk-neepmod-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*bolditalicFont: -jmk-neepmod-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*italicFont: -jmk-neepmod-medium-r-normal-*-*-*-*-*-*-*-*-*
+
+!sid*font: -lokaltog-fixed-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*boldFont: -lokaltog-fixed-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*italicFont: -lokaltog-fixed-medium-r-normal-*-*-*-*-*-*-*-*-*
+!sid*bolditalicFont: -lokaltog-fixed-medium-r-normal-*-*-*-*-*-*-*-*-*
+
+sid*font: -benis-uushi-medium-r-normal-*-*-*-*-*-*-*-*-*
+sid*boldFont: -benis-uushi-medium-r-normal-*-*-*-*-*-*-*-*-*
+sid*italicFont: -benis-uushi-medium-r-normal-*-*-*-*-*-*-*-*-*
+sid*bolditalicFont: -benis-uushi-medium-r-normal-*-*-*-*-*-*-*-*-*
+
+!sid*font: -jmk-dweep-medium-r-semicondensed-*-*-*-75-75-c-*-iso8859-1
+!sid*boldFont: -jmk-dweep-medium-r-semicondensed-*-*-*-75-75-c-*-iso8859-1
+!sid*italicFont: -jmk-dweep-medium-r-semicondensed-*-*-*-75-75-c-*-iso8859-1
+!sid*bolditalicFont: -jmk-dweep-medium-r-semicondensed-*-*-*-75-75-c-*-iso8859-1
+
+!sid*font: -benis-lemon-*-*-normal-*-*-*-*-*-*-*-*-*
+!sid*boldFont: -benis-lemon-*-*-normal-*-*-*-*-*-*-*-*-*
+!sid*italicFont: -benis-lemon-*-*-normal-*-*-*-*-*-*-*-*-*
+!sid*bolditalicFont: -benis-lemon-*-*-normal-*-*-*-*-*-*-*-*-*
+
+!sid*font: -sxthe-yuki-*-*-normal-*-*-*-*-*-*-*-*-*
+!sid*boldFont: -sxthe-yuki-*-*-normal-*-*-*-*-*-*-*-*-*
+!sid*italicFont: -sxthe-yuki-*-*-normal-*-*-*-*-*-*-*-*-*
+!sid*bolditalicFont: -sxthe-yuki-*-*-normal-*-*-*-*-*-*-*-*-*
