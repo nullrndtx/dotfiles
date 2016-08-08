@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg3404"
+   version="1.1"
+   inkscape:version="0.48+devel r12678"
+   sodipodi:docname="document-print-symbolic.svg">
+  <defs
+     id="defs3406" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.7231455"
+     inkscape:cx="-4.8252586"
+     inkscape:cy="32.686347"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3409">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-384.57143,-488.93361)">
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       d="m 386.57143,494.93359 0,5.60001 3.2,0 0,-2.8 5.60001,0 0,2.8 3.19999,0 0,-5.60001 -12,0 z"
+       id="rect3234"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       d="m 388.97142,496.93359 0,6.00001 7.20002,0 0,-6.00001 -7.20002,0 z m 0.80001,0.80001 5.60001,0 0,4.4 -5.60001,0 0,-4.4 z"
+       id="rect4038"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="rect4047"
+       width="7.200007"
+       height="2.8000026"
+       x="388.97144"
+       y="490.93362" />
+  </g>
+</svg>

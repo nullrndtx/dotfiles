@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48+devel r12487"
+   version="1.0"
+   sodipodi:docname="format-text-strikethrough-symbolic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/matt/.icons/Sirocco/scalable/mimetypes/text-plain.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:modified="true"
+   style="display:inline">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.415919"
+     inkscape:cx="-3.3019028"
+     inkscape:cy="13.34529"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="128px"
+     height="128px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       id="guide2226"
+       position="32.637397,117.99844"
+       orientation="horizontal" />
+    <sodipodi:guide
+       id="guide2230"
+       position="110,57.402344"
+       orientation="vertical" />
+    <sodipodi:guide
+       id="guide2232"
+       position="33.760911"
+       orientation="horizontal" />
+    <sodipodi:guide
+       id="guide2231"
+       position="46.774696"
+       orientation="horizontal" />
+    <inkscape:grid
+       enabled="true"
+       visible="true"
+       id="grid3231"
+       type="xygrid" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,67.625"
+       id="guide2713" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Calque 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.40000002,0,0,0.40000002,-1.6000005,-403.3449)"
+       id="layer1-8"
+       inkscape:label="Capa 1"
+       style="fill:#bebebe;fill-opacity:1">
+      <path
+         id="path3254"
+         transform="translate(0,1004.3622)"
+         d="m 23.779297,9 c -6.27523,0 -12.49518,2.14765 -12.935547,9.46875 l 6.275391,0 c 0.27523,-3.0826 2.752454,-4.515625 6.27539,-4.515625 2.53211,0 5.890625,0.605816 5.890625,3.853516 0,0.250783 -0.02254,0.479532 -0.05859,0.693359 l 5.947266,0 0,-1.242188 C 35.173828,11.257812 29.33893,9 23.779297,9 Z M 9.859375,29.5 c -0.038004,0.377655 -0.060547,0.769802 -0.060547,1.1875 0,5.5596 4.622922,8.3125 9.742188,8.3125 3.357798,0 7.37645,-1.04675 9.853515,-3.46875 0.495412,2.5872 2.31164,3.46875 4.84375,3.46875 1.045872,0 3.027111,-0.384544 3.962891,-0.714844 l 0,-4.349609 c -0.66055,0.1101 -1.155695,0.111328 -1.541016,0.111328 -1.155964,0 -1.486328,-0.607137 -1.486328,-2.148437 l 0,-2.398438 -6.353516,0 c -0.567609,3.317667 -4.421868,4.546875 -6.966796,4.546875 -2.201835,0 -5.779297,-0.827366 -5.779297,-3.634766 0,-0.328645 0.03032,-0.627512 0.07617,-0.912109 l -6.2910161,0 z"
+         style="font-size:55.04587173px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bebebe;fill-opacity:1;stroke:none;font-family:Helvetica 65 Medium;-inkscape-font-specification:'Helvetica 65 Medium, Medium'"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect3372"
+         width="30"
+         height="7"
+         x="9"
+         y="1024.8622" />
+    </g>
+  </g>
+</svg>
