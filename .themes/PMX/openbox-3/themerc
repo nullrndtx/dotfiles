@@ -1,0 +1,44 @@
+## BORDERS
+
+# Hide borders
+border.width: 6
+window.handle.width: 0
+window.client.padding.width: 6
+
+# Set border color
+window.*.client.color: #d4cec7
+
+## TITLE
+
+# Add some padding
+padding.width: 6
+padding.height: 4
+
+# Set title colors
+window.*.title.bg: Solid Flat
+window.*.*.bg: Parentrelative
+window.*.title.bg.color: #eae3dc
+window.*.label.text.color: #F2A18C
+
+# Set buttons color
+window.*.button.*.image.color: #bdbab8
+
+
+## MENU
+
+# Set menu colors
+menu.*.bg: Solid Flat
+menu.*.bg.color: #EEEEEE
+menu.*.text.color: #021B21
+
+# Add some padding
+menu.border.width: 20
+menu.border.color: #EEEEEE
+
+# Add some submenu padding
+menu.overlap.x: -30
+menu.overlap.y: 0
+
+# Add padding between items
+menu.separator.padding.height: 3
+menu.separator.color: #EEEEEE
