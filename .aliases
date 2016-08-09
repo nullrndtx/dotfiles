@@ -1,0 +1,88 @@
+# Aliases
+alias searchpkg='apt-cache search'
+alias installpkg='sudo apt-get install'
+alias removepkg='sudo apt-get purge --remove'
+alias upgraderepo='sudo apt-get dist-upgrade'
+alias updaterepo='sudo apt-get update --fix-missing'
+
+# Operations
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
+alias link='ln -s -r'
+alias ls='ls++ --potsf'
+alias ll='ls --color=auto -l -AhGg'
+alias lsa='ls --color=auto -hAG'
+
+# Programs
+alias sound='alsamixer'
+alias aud='alsamixer'
+alias load='htop -u rndtx'
+alias music='mocp -T white'
+alias c='clear'
+alias bin='cd ~/bin/'
+alias df='dfc -f -s'
+alias time='tty-clock -cb -C 6'
+alias uptime='uptime -p'
+alias wget='wget -c -q --show-progress -4 -E'
+alias extract='dtrx -v'
+alias m='mpv'
+
+# Super User Tasks
+alias poweroff='sudo poweroff'
+alias reboot='sudo reboot'
+alias kill='killall -v --ignore-case'
+alias mount='sudo mount -t auto -v'
+alias mountall='sudo bash ~/bin/mountall'
+alias full_access='sudo chmod -R a+rw ./'
+
+# Configs, Scripts & Dirs
+alias class='xprop | grep WM_CLASS'
+alias sba='cat ~/.aliases | grep'
+alias bg='bash ~/bin/bg'
+alias dir='tree -d'
+
+# n = delay second
+# d = difference
+alias watch='watch -ct -n 1 -d'
+
+# Network
+alias net='bwm-ng'
+
+# dracOs
+alias dracosrepo='cd /home/rndtx/Linux-Development/DRACOS/'
+alias dracosvnm='cd /home/rndtx/Linux-Development/DRACOS/'
+
+# Git
+alias clone='git clone'
+alias push='git push origin master'
+alias status='git status'
+alias add='git add .'
+alias commit='git commit -m'
+alias blog='cd ~/Git/nullrndtx/nullrndtx.github.io'
+
+# neofetch
+alias fetch2="neofetch \
+--block_range 1 7 \
+--line_wrap off \
+--bold off \
+--uptime_shorthand on \
+--gtk_shorthand on \
+--colors 4 1 8 8 8 7 \
+"
+
+# misc
+alias baptist='curl -L git.io/unix'
+alias merge='xrdb ~/.x/xres'
+alias updatelocalfonts='mkfontdir ~/.fonts; mkfontscale ~/.fonts; fc-cache -vf ~/.fonts; xset +fp ~/.fonts; xset fp rehash'
+alias fixpubkey='sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys'
+alias rebuild='sudo make uninstall; make clean; make; sudo make install'
+alias dots='cd $HOME/Git/nullrndtx/dotfiles'
+alias 2bwmSource='cd $HOME/WMs/2bwm'
+alias mountWindows='sudo ntfs-3g /dev/sda3 /mnt/WINDOWSDATA'
+alias editDns='sudo nano /etc/resolv.conf'
+
+# xcolor
+alias xcolorFreakcode='xcolor freakcode'
+alias xcolorXterm='xcolor xterm'
+
