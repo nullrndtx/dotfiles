@@ -1,0 +1,270 @@
+2016-07-25 19:22:32		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-07-25 19:22:36		fifo: pipe closed
+2016-07-25 19:23:29		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-07-25 19:23:33	 !!! 	You can not write text in this buffer
+2016-07-25 19:23:38	 !!! 	Error: unknown command "/theme" (type /help for help)
+2016-07-25 19:23:52		python: loading script "/home/rndtx/.weechat/python/theme.py"
+2016-07-25 19:23:52		python: registered script "theme", version 0.1-dev (WeeChat theme manager)
+2016-07-25 19:23:52		Theme saved to "/home/rndtx/.weechat/themes/_backup.theme"
+2016-07-25 19:23:57		No theme loaded
+2016-07-25 19:24:04		theme: too few arguments for action "installfile"
+2016-07-25 19:24:36		Theme saved to "/home/rndtx/.weechat/themes/_undo.theme"
+2016-07-25 19:24:36		Error loading theme "themes/pastie.theme"
+2016-07-25 19:24:42		theme: action "install" not developed
+2016-07-25 19:24:50		theme: action "install" not developed
+2016-07-25 19:25:21		fifo: pipe closed
+2016-07-25 19:25:21		python: scripts unloaded
+2016-07-25 19:25:24		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-07-25 19:25:30		fifo: pipe closed
+2016-07-25 19:27:48		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-07-25 19:27:59		script: script "ncmpcpp.pl" not found
+2016-07-25 19:28:03		fifo: pipe closed
+2016-07-25 19:28:14		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-07-25 19:28:17		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-07-25 19:28:17		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)
+2016-07-25 19:28:22		perl: loading script "/home/rndtx/.weechat/perl/buffers.pl"
+2016-07-25 19:28:22		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-07-25 19:28:26		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-07-25 19:28:26		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-07-25 19:29:08		irc: server freenode added
+2016-07-25 19:30:32	 !!! 	Error with command "/window close" (help on command: /help window)
+2016-07-25 19:30:41	 !!! 	Error: WeeChat main buffer can't be closed
+2016-07-25 19:30:45		fifo: pipe closed
+2016-07-25 19:30:45		python: scripts unloaded
+2016-07-25 19:30:45		perl: scripts unloaded
+2016-07-25 19:30:48	 !!! 	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-07-25 19:30:48	 !!! 	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-07-25 19:30:48	 !!! 	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-07-25 19:30:48	 !!! 	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-07-25 19:30:48		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-07-25 19:31:07		script: script "ncmpcpp.pl" not found
+2016-07-25 19:31:09	 !!! 	You can not write text in this buffer
+2016-07-25 19:31:10		fifo: pipe closed
+2016-07-25 19:31:35	 !!! 	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-07-25 19:31:35	 !!! 	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-07-25 19:31:35	 !!! 	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-07-25 19:31:35	 !!! 	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-07-25 19:31:35		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-07-25 19:31:44		script: script "ncmpcpp.pl" not found
+2016-07-25 19:31:49		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-07-25 19:31:49		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)
+2016-07-25 19:31:55		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-07-25 19:31:55		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-07-25 19:31:59		perl: loading script "/home/rndtx/.weechat/perl/buffers.pl"
+2016-07-25 19:31:59		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-07-25 19:32:04		python: loading script "/home/rndtx/.weechat/python/theme.py"
+2016-07-25 19:32:04		python: registered script "theme", version 0.1-dev (WeeChat theme manager)
+2016-07-25 19:33:17		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-07-25 19:33:18		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-07-25 19:33:18		New key binding (context "mouse"): @chat(*)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-07-25 19:33:18		New key binding (context "mouse"): @item(buffer_nicklist)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-07-25 19:33:18		New key binding (context "mouse"): @item(buddylist):button1* => hsignal:buddylist_mouse
+2016-07-25 19:33:18		New key binding (context "mouse"): @item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-07-25 20:23:40		fifo: pipe closed
+2016-07-25 20:23:40		python: scripts unloaded
+2016-07-25 20:23:40		perl: scripts unloaded
+2016-08-02 23:05:29	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-02 23:05:29	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-02 23:05:30	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-02 23:05:30	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-02 23:05:30		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-02 23:05:42		perl: loading script "/home/rndtx/.weechat/perl/buffers.pl"
+2016-08-02 23:05:42		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-08-02 23:05:42		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-08-02 23:05:42		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-08-02 23:05:42		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2016-08-02 23:05:42		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2016-08-02 23:05:50		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-02 23:05:50		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-08-02 23:05:50		New key binding (context "mouse"): @chat(*)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-08-02 23:05:50		New key binding (context "mouse"): @item(buffer_nicklist)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-08-02 23:05:50		New key binding (context "mouse"): @item(buddylist):button1* => hsignal:buddylist_mouse
+2016-08-02 23:05:50		New key binding (context "mouse"): @item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-08-02 23:05:56		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-08-02 23:05:56		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-08-02 23:06:02		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-08-02 23:06:02		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)
+2016-08-03 00:21:50		fifo: pipe closed
+2016-08-03 00:21:50		python: scripts unloaded
+2016-08-03 00:21:50		perl: scripts unloaded
+2016-08-03 19:27:35	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-03 19:27:35	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-03 19:27:35	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-03 19:27:35	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-03 19:27:35		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-03 19:27:52	!	irc: unable to add temporary server "irc.dracos-linux.org" because the addition of temporary servers with command /connect is currently disabled
+2016-08-03 19:27:52	!	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-08-03 19:28:28		irc: server dracos added
+2016-08-03 19:29:15		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-03 19:29:15		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-08-03 19:29:20		perl: loading script "/home/rndtx/.weechat/perl/buffers.pl"
+2016-08-03 19:29:20		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-08-03 19:29:24		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-08-03 19:29:24		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-08-03 19:29:28		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-08-03 19:29:28		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)
+2016-08-03 19:43:44		fifo: pipe closed
+2016-08-03 19:43:44		python: scripts unloaded
+2016-08-03 19:43:44		perl: scripts unloaded
+2016-08-03 19:44:23	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-03 19:44:23	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-03 19:44:23	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-03 19:44:23	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-03 19:44:23		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-03 19:44:41		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-03 19:44:41		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-08-03 19:44:44		perl: loading script "/home/rndtx/.weechat/perl/buffers.pl"
+2016-08-03 19:44:44		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-08-03 19:44:50		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-08-03 19:44:50		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-08-03 19:44:54		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-08-03 19:44:54		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)
+2016-08-03 19:49:09		fifo: pipe closed
+2016-08-03 19:49:09		python: scripts unloaded
+2016-08-03 19:49:09		perl: scripts unloaded
+2016-08-03 19:49:11	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-03 19:49:11	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-03 19:49:11	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-03 19:49:11	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-03 19:49:11		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-03 19:49:16		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-03 19:49:16		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-08-03 19:49:19		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-03 19:49:19	!	perl: unable to register script "buddylist" (another script already exists with this name)
+2016-08-03 19:49:19	!	perl: unable to call function "info_get", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value $weechat_version in string ne at /home/rndtx/.weechat/perl/buddylist.pl line 959.
+2016-08-03 19:49:19	!	perl: unable to call function "config_get_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value in string eq at /home/rndtx/.weechat/perl/buddylist.pl line 965.
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value $weechat_version in string ne at /home/rndtx/.weechat/perl/buddylist.pl line 1098.
+2016-08-03 19:49:19	!	perl: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_get_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value in string eq at /home/rndtx/.weechat/perl/buddylist.pl line 1141.
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_get_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value in string eq at /home/rndtx/.weechat/perl/buddylist.pl line 1141.
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_get_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value in string eq at /home/rndtx/.weechat/perl/buddylist.pl line 1141.
+2016-08-03 19:49:19	!	perl: unable to call function "config_set_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "config_get_plugin", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value $dir in pattern match (m//) at /home/rndtx/.weechat/perl/buddylist.pl line 947.
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value $buddylist in string eq at /home/rndtx/.weechat/perl/buddylist.pl line 804.
+2016-08-03 19:49:19		Please set a valid filename : /set plugins.var.perl.buddylist.buddylist
+2016-08-03 19:49:19	!	perl: unable to call function "bar_item_new", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "bar_new", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_config", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_completion", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "hook_signal", script is not initialized (script: -)
+2016-08-03 19:49:19	perl	warning: Use of uninitialized value $weechat_version in numeric ge (>=) at /home/rndtx/.weechat/perl/buddylist.pl line 196.
+2016-08-03 19:49:19	!	perl: unable to call function "hook_command", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: unable to call function "command", script is not initialized (script: -)
+2016-08-03 19:49:19	!	perl: function "register" not found (or failed) in file "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-03 19:49:36		fifo: pipe closed
+2016-08-03 19:49:36		perl: scripts unloaded
+2016-08-03 19:49:38	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-03 19:49:38	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-03 19:49:38	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-03 19:49:38	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-03 19:49:38		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-03 19:49:43		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-08-03 19:49:43		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-08-03 19:49:47	!	irc: already connected to server "dracos"!
+2016-08-03 19:55:12		fifo: pipe closed
+2016-08-03 19:55:12		python: scripts unloaded
+2016-08-03 20:10:18	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-03 20:10:18	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-03 20:10:18	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-03 20:10:18	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-03 20:10:18		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-03 20:10:40		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-03 20:10:40		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-08-03 20:10:45		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-08-03 20:10:45		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-08-03 20:10:49		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-08-03 20:10:49		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)
+2016-08-03 21:16:43		fifo: pipe closed
+2016-08-03 21:16:43		python: scripts unloaded
+2016-08-03 21:16:43		perl: scripts unloaded
+2016-08-03 21:49:46	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-03 21:49:46	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-03 21:49:47	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-03 21:49:47	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-03 21:49:47		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-03 21:49:59		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-03 21:49:59		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-08-03 21:50:03		perl: loading script "/home/rndtx/.weechat/perl/buffers.pl"
+2016-08-03 21:50:03		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-08-03 21:50:06		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-08-03 21:50:06		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-08-03 21:50:10		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-08-03 21:50:10		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)
+2016-08-03 22:02:08		fifo: pipe closed
+2016-08-03 22:02:08		python: scripts unloaded
+2016-08-03 22:02:08		perl: scripts unloaded
+2016-08-08 15:22:47	!	perl: script "/home/rndtx/.weechat/perl/autoload/buffers.pl" not found
+2016-08-08 15:22:47	!	perl: script "/home/rndtx/.weechat/perl/autoload/ncmpcpp.pl" not found
+2016-08-08 15:22:47	!	python: script "/home/rndtx/.weechat/python/autoload/theme.py" not found
+2016-08-08 15:22:47	!	python: script "/home/rndtx/.weechat/python/autoload/colorize_nicks.py" not found
+2016-08-08 15:22:48		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-08 15:23:06		perl: loading script "/home/rndtx/.weechat/perl/buddylist.pl"
+2016-08-08 15:23:06		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-08-08 15:23:09		perl: loading script "/home/rndtx/.weechat/perl/buffers.pl"
+2016-08-08 15:23:09		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-08-08 15:23:13		python: loading script "/home/rndtx/.weechat/python/colorize_nicks.py"
+2016-08-08 15:23:13		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-08-08 15:23:18		perl: loading script "/home/rndtx/.weechat/perl/ncmpcpp.pl"
+2016-08-08 15:23:18		perl: registered script "ncmpcpp", version 0.2 (Control and "now playing" script for ncmpcpp)

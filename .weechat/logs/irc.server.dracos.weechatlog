@@ -1,0 +1,221 @@
+2016-08-03 19:28:31	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:28:32	@	irc: connected to irc.dracos-linux.org/6667 (167.114.170.202)
+2016-08-03 19:28:32	@	irc.dracos-linux.org: *** Looking up your hostname...
+2016-08-03 19:28:33	@	irc.dracos-linux.org: *** Couldn't resolve your hostname; using your IP address instead
+2016-08-03 19:28:33	@	Welcome to the SarangKomodo IRC Network rndtx!rndtx@118.137.52.199
+2016-08-03 19:28:33	@	Your host is irc.dracos-linux.org, running version UnrealIRCd-4.0.4
+2016-08-03 19:28:33	@	This server was created Sun Jul 24 2016 at 07:19:35 WIB
+2016-08-03 19:28:33	@	irc.dracos-linux.org UnrealIRCd-4.0.4 iowrsxzdHtIRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+2016-08-03 19:28:33	@	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-08-03 19:28:33	@	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=SarangKomodo CASEMAPPING=ascii EXTBAN=~,SOcaRrnqj ELIST=MNUCT :are supported by this server
+2016-08-03 19:28:33	@	STATUSMSG=~&@%+ EXCEPTS INVEX CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP :are supported by this server
+2016-08-03 19:28:33	@	27F5AF39.9CAAA6AB.6699B5C8.IP :is now your displayed host
+2016-08-03 19:28:33	@	There are 1 users and 7 invisible on 1 servers
+2016-08-03 19:28:33	@	5 :channels formed
+2016-08-03 19:28:33	@	I have 8 clients and 0 servers
+2016-08-03 19:28:33	@	8 9 :Current local users 8, max 9
+2016-08-03 19:28:33	@	8 9 :Current global users 8, max 9
+2016-08-03 19:28:33	@	MOTD File is missing
+2016-08-03 19:28:33	@	User mode [+iwx] by rndtx
+2016-08-03 19:28:56	@	You are now known as randalltux
+2016-08-03 19:43:42	@	irc: disconnected from server
+2016-08-03 19:44:23	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:44:24	@	irc: connected to irc.dracos-linux.org/6667 (167.114.170.202)
+2016-08-03 19:44:24	@	irc.dracos-linux.org: *** Looking up your hostname...
+2016-08-03 19:44:24	@	irc.dracos-linux.org: *** Couldn't resolve your hostname; using your IP address instead
+2016-08-03 19:44:25	@	Welcome to the SarangKomodo IRC Network rndtx!rndtx@118.137.52.199
+2016-08-03 19:44:25	@	Your host is irc.dracos-linux.org, running version UnrealIRCd-4.0.4
+2016-08-03 19:44:25	@	This server was created Sun Jul 24 2016 at 07:19:35 WIB
+2016-08-03 19:44:25	@	irc.dracos-linux.org UnrealIRCd-4.0.4 iowrsxzdHtIRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+2016-08-03 19:44:25	@	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-08-03 19:44:25	@	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=SarangKomodo CASEMAPPING=ascii EXTBAN=~,SOcaRrnqj ELIST=MNUCT :are supported by this server
+2016-08-03 19:44:25	@	STATUSMSG=~&@%+ EXCEPTS INVEX CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP :are supported by this server
+2016-08-03 19:44:25	@	27F5AF39.9CAAA6AB.6699B5C8.IP :is now your displayed host
+2016-08-03 19:44:25	@	There are 1 users and 9 invisible on 1 servers
+2016-08-03 19:44:25	@	6 :channels formed
+2016-08-03 19:44:25	@	I have 10 clients and 0 servers
+2016-08-03 19:44:25	@	10 10 :Current local users 10, max 10
+2016-08-03 19:44:25	@	10 10 :Current global users 10, max 10
+2016-08-03 19:44:25	@	MOTD File is missing
+2016-08-03 19:44:25	@	User mode [+iwx] by rndtx
+2016-08-03 19:44:37	@	You are now known as randalltux
+2016-08-03 19:49:07	@	irc: disconnected from server
+2016-08-03 19:49:11	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:49:12	@	irc: connected to irc.dracos-linux.org/6667 (167.114.170.202)
+2016-08-03 19:49:12	@	irc.dracos-linux.org: *** Looking up your hostname...
+2016-08-03 19:49:12	@	irc.dracos-linux.org: *** Couldn't resolve your hostname; using your IP address instead
+2016-08-03 19:49:13	@	Welcome to the SarangKomodo IRC Network rndtx!rndtx@118.137.52.199
+2016-08-03 19:49:13	@	Your host is irc.dracos-linux.org, running version UnrealIRCd-4.0.4
+2016-08-03 19:49:13	@	This server was created Sun Jul 24 2016 at 07:19:35 WIB
+2016-08-03 19:49:13	@	irc.dracos-linux.org UnrealIRCd-4.0.4 iowrsxzdHtIRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+2016-08-03 19:49:13	@	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-08-03 19:49:13	@	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=SarangKomodo CASEMAPPING=ascii EXTBAN=~,SOcaRrnqj ELIST=MNUCT :are supported by this server
+2016-08-03 19:49:13	@	STATUSMSG=~&@%+ EXCEPTS INVEX CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP :are supported by this server
+2016-08-03 19:49:13	@	27F5AF39.9CAAA6AB.6699B5C8.IP :is now your displayed host
+2016-08-03 19:49:13	@	There are 1 users and 9 invisible on 1 servers
+2016-08-03 19:49:13	@	6 :channels formed
+2016-08-03 19:49:13	@	I have 10 clients and 0 servers
+2016-08-03 19:49:13	@	10 10 :Current local users 10, max 10
+2016-08-03 19:49:13	@	10 10 :Current global users 10, max 10
+2016-08-03 19:49:13	@	MOTD File is missing
+2016-08-03 19:49:13	@	User mode [+iwx] by rndtx
+2016-08-03 19:49:31	@	irc: disconnected from server
+2016-08-03 19:49:33	!	irc: this buffer is not a channel!
+2016-08-03 19:49:38	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:49:38	@	irc: connected to irc.dracos-linux.org/6667 (167.114.170.202)
+2016-08-03 19:49:39	@	irc.dracos-linux.org: *** Looking up your hostname...
+2016-08-03 19:49:39	@	irc.dracos-linux.org: *** Couldn't resolve your hostname; using your IP address instead
+2016-08-03 19:49:39	@	Welcome to the SarangKomodo IRC Network rndtx!rndtx@118.137.52.199
+2016-08-03 19:49:39	@	Your host is irc.dracos-linux.org, running version UnrealIRCd-4.0.4
+2016-08-03 19:49:39	@	This server was created Sun Jul 24 2016 at 07:19:35 WIB
+2016-08-03 19:49:39	@	irc.dracos-linux.org UnrealIRCd-4.0.4 iowrsxzdHtIRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+2016-08-03 19:49:39	@	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-08-03 19:49:39	@	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=SarangKomodo CASEMAPPING=ascii EXTBAN=~,SOcaRrnqj ELIST=MNUCT :are supported by this server
+2016-08-03 19:49:39	@	STATUSMSG=~&@%+ EXCEPTS INVEX CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP :are supported by this server
+2016-08-03 19:49:39	@	27F5AF39.9CAAA6AB.6699B5C8.IP :is now your displayed host
+2016-08-03 19:49:39	@	There are 1 users and 9 invisible on 1 servers
+2016-08-03 19:49:39	@	6 :channels formed
+2016-08-03 19:49:39	@	I have 10 clients and 0 servers
+2016-08-03 19:49:39	@	10 10 :Current local users 10, max 10
+2016-08-03 19:49:39	@	10 10 :Current global users 10, max 10
+2016-08-03 19:49:39	@	MOTD File is missing
+2016-08-03 19:49:40	@	User mode [+iwx] by rndtx
+2016-08-03 19:49:54	@	You are now known as randalltux
+2016-08-03 19:51:43	!	irc: reading data on socket: error 0 (connection closed by peer)
+2016-08-03 19:51:43	@	irc: disconnecting from server...
+2016-08-03 19:51:43	@	irc: disconnected from server
+2016-08-03 19:51:43	@	irc: reconnecting to server in 10 seconds
+2016-08-03 19:51:53	@	irc: reconnecting to server...
+2016-08-03 19:51:53	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:51:53	!	irc: connection refused
+2016-08-03 19:51:53	@	irc: reconnecting to server in 20 seconds
+2016-08-03 19:52:13	@	irc: reconnecting to server...
+2016-08-03 19:52:13	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:52:13	!	irc: connection refused
+2016-08-03 19:52:13	@	irc: reconnecting to server in 40 seconds
+2016-08-03 19:52:53	@	irc: reconnecting to server...
+2016-08-03 19:52:53	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:53:13	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 19:53:13	!	irc: error: Name or service not known
+2016-08-03 19:53:13	@	irc: reconnecting to server in 1 minute, 20 seconds
+2016-08-03 19:54:33	@	irc: reconnecting to server...
+2016-08-03 19:54:33	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 19:54:53	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 19:54:53	!	irc: error: Name or service not known
+2016-08-03 19:54:53	@	irc: reconnecting to server in 2 minutes, 40 seconds
+2016-08-03 20:10:18	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 20:10:18	@	irc: connected to irc.dracos-linux.org/6667 (167.114.170.202)
+2016-08-03 20:10:18	@	irc.dracos-linux.org: *** Looking up your hostname...
+2016-08-03 20:10:19	@	irc.dracos-linux.org: *** Couldn't resolve your hostname; using your IP address instead
+2016-08-03 20:10:19	@	Welcome to the SarangKomodo IRC Network rndtx!rndtx@118.137.52.199
+2016-08-03 20:10:19	@	Your host is irc.dracos-linux.org, running version UnrealIRCd-4.0.4
+2016-08-03 20:10:19	@	This server was created Sun Jul 24 2016 at 07:19:35 WIB
+2016-08-03 20:10:19	@	irc.dracos-linux.org UnrealIRCd-4.0.4 iowrsxzdHtIRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+2016-08-03 20:10:19	@	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-08-03 20:10:19	@	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=SarangKomodo CASEMAPPING=ascii EXTBAN=~,SOcaRrnqj ELIST=MNUCT :are supported by this server
+2016-08-03 20:10:19	@	STATUSMSG=~&@%+ EXCEPTS INVEX CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP :are supported by this server
+2016-08-03 20:10:19	@	27F5AF39.9CAAA6AB.6699B5C8.IP :is now your displayed host
+2016-08-03 20:10:19	@	There are 1 users and 3 invisible on 1 servers
+2016-08-03 20:10:19	@	2 :channels formed
+2016-08-03 20:10:19	@	I have 4 clients and 0 servers
+2016-08-03 20:10:19	@	4 10 :Current local users 4, max 10
+2016-08-03 20:10:19	@	4 4 :Current global users 4, max 4
+2016-08-03 20:10:19	@	MOTD File is missing
+2016-08-03 20:10:19	@	User mode [+iwx] by rndtx
+2016-08-03 20:10:35	@	You are now known as randalltux
+2016-08-03 20:51:42	!	irc: reading data on socket: error 22 Invalid argument
+2016-08-03 20:51:42	@	irc: disconnecting from server...
+2016-08-03 20:51:42	@	irc: disconnected from server
+2016-08-03 20:51:42	@	irc: reconnecting to server in 10 seconds
+2016-08-03 20:51:52	@	irc: reconnecting to server...
+2016-08-03 20:51:52	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 20:52:12	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 20:52:12	!	irc: error: Name or service not known
+2016-08-03 20:52:12	@	irc: reconnecting to server in 20 seconds
+2016-08-03 20:52:32	@	irc: reconnecting to server...
+2016-08-03 20:52:32	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 20:52:52	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 20:52:52	!	irc: error: Name or service not known
+2016-08-03 20:52:52	@	irc: reconnecting to server in 40 seconds
+2016-08-03 20:53:32	@	irc: reconnecting to server...
+2016-08-03 20:53:32	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 20:53:52	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 20:53:52	!	irc: error: Name or service not known
+2016-08-03 20:53:52	@	irc: reconnecting to server in 1 minute, 20 seconds
+2016-08-03 20:55:12	@	irc: reconnecting to server...
+2016-08-03 20:55:12	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 20:55:32	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 20:55:32	!	irc: error: Name or service not known
+2016-08-03 20:55:32	@	irc: reconnecting to server in 2 minutes, 40 seconds
+2016-08-03 20:58:12	@	irc: reconnecting to server...
+2016-08-03 20:58:12	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 20:58:32	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 20:58:32	!	irc: error: Name or service not known
+2016-08-03 20:58:32	@	irc: reconnecting to server in 5 minutes, 20 seconds
+2016-08-03 21:03:52	@	irc: reconnecting to server...
+2016-08-03 21:03:52	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 21:04:12	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 21:04:12	!	irc: error: Name or service not known
+2016-08-03 21:04:12	@	irc: reconnecting to server in 10 minutes
+2016-08-03 21:14:12	@	irc: reconnecting to server...
+2016-08-03 21:14:12	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 21:14:32	!	irc: address "irc.dracos-linux.org" not found
+2016-08-03 21:14:32	!	irc: error: Name or service not known
+2016-08-03 21:14:32	@	irc: reconnecting to server in 10 minutes
+2016-08-03 21:49:47	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-03 21:49:47	@	irc: connected to irc.dracos-linux.org/6667 (167.114.170.202)
+2016-08-03 21:49:47	@	irc.dracos-linux.org: *** Looking up your hostname...
+2016-08-03 21:49:48	@	irc.dracos-linux.org: *** Couldn't resolve your hostname; using your IP address instead
+2016-08-03 21:49:48	@	Welcome to the SarangKomodo IRC Network rndtx!rndtx@118.137.52.199
+2016-08-03 21:49:48	@	Your host is irc.dracos-linux.org, running version UnrealIRCd-4.0.4
+2016-08-03 21:49:48	@	This server was created Sun Jul 24 2016 at 07:19:35 WIB
+2016-08-03 21:49:48	@	irc.dracos-linux.org UnrealIRCd-4.0.4 iowrsxzdHtIRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+2016-08-03 21:49:48	@	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-08-03 21:49:48	@	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=SarangKomodo CASEMAPPING=ascii EXTBAN=~,SOcaRrnqj ELIST=MNUCT :are supported by this server
+2016-08-03 21:49:48	@	STATUSMSG=~&@%+ EXCEPTS INVEX CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP :are supported by this server
+2016-08-03 21:49:48	@	27F5AF39.9CAAA6AB.6699B5C8.IP :is now your displayed host
+2016-08-03 21:49:48	@	There are 1 users and 7 invisible on 1 servers
+2016-08-03 21:49:48	@	2 :channels formed
+2016-08-03 21:49:48	@	I have 8 clients and 0 servers
+2016-08-03 21:49:48	@	8 11 :Current local users 8, max 11
+2016-08-03 21:49:48	@	8 11 :Current global users 8, max 11
+2016-08-03 21:49:48	@	MOTD File is missing
+2016-08-03 21:49:48	@	User mode [+iwx] by rndtx
+2016-08-03 21:50:24	@	You are now known as randalltux
+2016-08-08 15:22:48	@	irc: connecting to server irc.dracos-linux.org/6667...
+2016-08-08 15:22:48	@	irc: connected to irc.dracos-linux.org/6667 (167.114.170.202)
+2016-08-08 15:22:49	@	irc.dracos-linux.org: *** Looking up your hostname...
+2016-08-08 15:22:49	@	irc.dracos-linux.org: *** Couldn't resolve your hostname; using your IP address instead
+2016-08-08 15:22:49	@	Welcome to the SarangKomodo IRC Network rndtx!rndtx@118.137.52.199
+2016-08-08 15:22:49	@	Your host is irc.dracos-linux.org, running version UnrealIRCd-4.0.4
+2016-08-08 15:22:49	@	This server was created Sun Jul 24 2016 at 07:19:35 WIB
+2016-08-08 15:22:49	@	irc.dracos-linux.org UnrealIRCd-4.0.4 iowrsxzdHtIRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+2016-08-08 15:22:49	@	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-08-08 15:22:49	@	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=SarangKomodo CASEMAPPING=ascii EXTBAN=~,SOcaRrnqj ELIST=MNUCT :are supported by this server
+2016-08-08 15:22:49	@	STATUSMSG=~&@%+ EXCEPTS INVEX CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP :are supported by this server
+2016-08-08 15:22:49	@	27F5AF39.9CAAA6AB.6699B5C8.IP :is now your displayed host
+2016-08-08 15:22:49	@	There are 1 users and 9 invisible on 2 servers
+2016-08-08 15:22:49	@	8 :operator(s) online
+2016-08-08 15:22:49	@	1 :channels formed
+2016-08-08 15:22:49	@	I have 2 clients and 1 servers
+2016-08-08 15:22:49	@	2 11 :Current local users 2, max 11
+2016-08-08 15:22:49	@	10 12 :Current global users 10, max 12
+2016-08-08 15:22:50	@	- irc.dracos-linux.org Message of the Day -
+2016-08-08 15:22:50	@	- 4/8/2016 12:11
+2016-08-08 15:22:50	@	-  ____    ____       _       ____    ___    ____
+2016-08-08 15:22:50	@	- |  _ \  |  _ \     / \     / ___|  / _ \  / ___|
+2016-08-08 15:22:50	@	- | | | | | |_) |   / _ \   | |     | | | | \___ \
+2016-08-08 15:22:50	@	- | |_| | |  _ <   / ___ \  | |___  | |_| |  ___) |
+2016-08-08 15:22:50	@	- |____/  |_| \_\ /_/   \_\  \____|  \___/  |____/
+2016-08-08 15:22:50	@	- Internet relay chat server * 2012 - 2016
+2016-08-08 15:22:50	@	End of /MOTD command.
+2016-08-08 15:22:50	@	User mode [+iwx] by rndtx
+2016-08-08 15:23:34	@	You are now known as randalltux
+2016-08-08 15:33:38	@	MSG(NIckServ): REGISTER ************
+2016-08-08 15:33:39	@	NickServ (services@services.host): Syntax: REGISTER password email
+2016-08-08 15:33:39	@	NickServ (services@services.host): /msg NickServ HELP REGISTER for more information.
+2016-08-08 15:33:55	@	MSG(NIckServ): REGISTER ***********************************
+2016-08-08 15:33:55	@	NickServ (services@services.host): Nickname randalltux registered.
+2016-08-08 15:33:56	@	User mode [+r] by NickServ
+2016-08-08 15:34:08	@	MSG(NickServ): identify ************
+2016-08-08 15:34:09	@	NickServ (services@services.host): You are already identified.

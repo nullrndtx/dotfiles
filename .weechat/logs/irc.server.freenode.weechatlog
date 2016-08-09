@@ -1,0 +1,236 @@
+2016-07-25 19:29:11	 - 	irc: connecting to server chat.freenode.net/6667...
+2016-07-25 19:29:11	 - 	irc: connected to chat.freenode.net/6667 (185.30.166.37)
+2016-07-25 19:29:12	 - 	verne.freenode.net: *** Looking up your hostname...
+2016-07-25 19:29:12	 - 	verne.freenode.net: *** Checking Ident
+2016-07-25 19:29:12	 - 	verne.freenode.net: *** Couldn't look up your hostname
+2016-07-25 19:29:20	 - 	verne.freenode.net: *** No Ident response
+2016-07-25 19:29:20	 - 	Welcome to the freenode Internet Relay Chat Network rndtx
+2016-07-25 19:29:20	 - 	Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.3
+2016-07-25 19:29:20	 - 	This server was created Wed Jun 10 2015 at 11:49:56 UTC
+2016-07-25 19:29:20	 - 	verne.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2016-07-25 19:29:20	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2016-07-25 19:29:20	 - 	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2016-07-25 19:29:20	 - 	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2016-07-25 19:29:20	 - 	There are 155 users and 84543 invisible on 27 servers
+2016-07-25 19:29:20	 - 	23 :IRC Operators online
+2016-07-25 19:29:20	 - 	9 :unknown connection(s)
+2016-07-25 19:29:20	 - 	56733 :channels formed
+2016-07-25 19:29:20	 - 	I have 5229 clients and 2 servers
+2016-07-25 19:29:20	 - 	5229 16338 :Current local users 5229, max 16338
+2016-07-25 19:29:20	 - 	84698 97578 :Current global users 84698, max 97578
+2016-07-25 19:29:20	 - 	Highest connection count: 16340 (16338 clients) (1755959 connections received)
+2016-07-25 19:29:20	 - 	- verne.freenode.net Message of the Day -
+2016-07-25 19:29:20	 - 	- Welcome to verne.freenode.net in Amsterdam, NL.
+2016-07-25 19:29:20	 - 	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2016-07-25 19:29:20	 - 	- this server!
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+2016-07-25 19:29:20	 - 	- a pioneering french author known for novels such as Twenty
+2016-07-25 19:29:20	 - 	- Thousand Leagues Under the Sea, A Journey to the Center of the
+2016-07-25 19:29:20	 - 	- Earth, and Around the World in Eighty Days. Often lauded as the
+2016-07-25 19:29:20	 - 	- Father of science fiction, Verne wrote about concepts such as
+2016-07-25 19:29:20	 - 	- space travel, skyscrapers, and worldwide communications
+2016-07-25 19:29:20	 - 	- networks long before these ideas became popularised or realised.
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	- Welcome to freenode - supporting the free and open source
+2016-07-25 19:29:20	 - 	- software communities since 1998.
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	- By connecting to freenode you indicate that you have read and
+2016-07-25 19:29:20	 - 	- accept our policies as set out on http://www.freenode.net
+2016-07-25 19:29:20	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2016-07-25 19:29:20	 - 	- any network-related questions or queries, where a number of
+2016-07-25 19:29:20	 - 	- volunteer staff and helpful users will be happy to assist you.
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2016-07-25 19:29:20	 - 	- together with like-minded FOSS enthusiasts for talks and
+2016-07-25 19:29:20	 - 	- real-life collaboration.
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	- We would like to thank Private Internet Access
+2016-07-25 19:29:20	 - 	- (https://www.privateinternetaccess.com/) and the other
+2016-07-25 19:29:20	 - 	- organisations that help keep freenode and our other projects
+2016-07-25 19:29:20	 - 	- running for their sustained support.
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	- In particular we would like to thank the sponsor
+2016-07-25 19:29:20	 - 	- of this server, details of which can be found above.
+2016-07-25 19:29:20	 - 	-
+2016-07-25 19:29:20	 - 	End of /MOTD command.
+2016-07-25 19:29:20	 - 	User mode [+i] by rndtx
+2016-07-25 19:29:27	 - 	You are now known as randalltux
+2016-07-25 19:29:27	 - 	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-07-25 19:29:34	 - 	MSG(NickServ): identify ************
+2016-07-25 19:29:35	 - 	NickServ (NickServ@services.): You are now identified for randalltux.
+2016-07-25 19:32:19	 - 	irc: connecting to server chat.freenode.net/6667...
+2016-07-25 19:32:20	 - 	irc: connected to chat.freenode.net/6667 (130.239.18.119)
+2016-07-25 19:32:20	 - 	leguin.freenode.net: *** Looking up your hostname...
+2016-07-25 19:32:20	 - 	leguin.freenode.net: *** Checking Ident
+2016-07-25 19:32:22	 - 	leguin.freenode.net: *** Couldn't look up your hostname
+2016-07-25 19:32:28	 - 	leguin.freenode.net: *** No Ident response
+2016-07-25 19:32:28	 - 	Welcome to the freenode Internet Relay Chat Network rndtx
+2016-07-25 19:32:28	 - 	Your host is leguin.freenode.net[130.239.18.119/6667], running version ircd-seven-1.1.3
+2016-07-25 19:32:28	 - 	This server was created Mon Jun 27 2016 at 17:01:22 UTC
+2016-07-25 19:32:28	 - 	leguin.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2016-07-25 19:32:28	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2016-07-25 19:32:28	 - 	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2016-07-25 19:32:28	 - 	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2016-07-25 19:32:28	 - 	There are 155 users and 84597 invisible on 27 servers
+2016-07-25 19:32:28	 - 	23 :IRC Operators online
+2016-07-25 19:32:28	 - 	15 :unknown connection(s)
+2016-07-25 19:32:28	 - 	56734 :channels formed
+2016-07-25 19:32:28	 - 	I have 2143 clients and 1 servers
+2016-07-25 19:32:28	 - 	2143 2143 :Current local users 2143, max 2143
+2016-07-25 19:32:28	 - 	84752 90224 :Current global users 84752, max 90224
+2016-07-25 19:32:28	 - 	Highest connection count: 2144 (2143 clients) (39534 connections received)
+2016-07-25 19:32:28	 - 	- leguin.freenode.net Message of the Day -
+2016-07-25 19:32:28	 - 	- Welcome to leguin.freenode.net in Umeå, Sweden, EU! Thanks to
+2016-07-25 19:32:28	 - 	- the Academic Computer Club at Umeå University for sponsoring
+2016-07-25 19:32:28	 - 	- this server!
+2016-07-25 19:32:28	 - 	-
+2016-07-25 19:32:28	 - 	- LE GUIN, URSULA K. (1929-) Born in Berkeley, California,
+2016-07-25 19:32:28	 - 	- Ursula Le Guin is an american author primarily known for
+2016-07-25 19:32:28	 - 	- her Science Fiction and Fantasy. She has been awarded the
+2016-07-25 19:32:28	 - 	- Hugo and Nebula awards, and is best known for her Earthsea
+2016-07-25 19:32:28	 - 	- and Hainish series.
+2016-07-25 19:32:28	 - 	-
+2016-07-25 19:32:28	 - 	- Welcome to freenode - supporting the free and open source
+2016-07-25 19:32:28	 - 	- software communities since 1998.
+2016-07-25 19:32:28	 - 	-
+2016-07-25 19:32:28	 - 	- By connecting to freenode you indicate that you have read and
+2016-07-25 19:32:28	 - 	- accept our policies as set out on http://www.freenode.net
+2016-07-25 19:32:28	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2016-07-25 19:32:28	 - 	- any network-related questions or queries, where a number of
+2016-07-25 19:32:28	 - 	- volunteer staff and helpful users will be happy to assist you.
+2016-07-25 19:32:28	 - 	-
+2016-07-25 19:32:28	 - 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2016-07-25 19:32:28	 - 	- together with like-minded FOSS enthusiasts for talks and
+2016-07-25 19:32:28	 - 	- real-life collaboration.
+2016-07-25 19:32:28	 - 	-
+2016-07-25 19:32:28	 - 	- We would like to thank Private Internet Access
+2016-07-25 19:32:28	 - 	- (https://www.privateinternetaccess.com/) and the other
+2016-07-25 19:32:28	 - 	- organisations that help keep freenode and our other projects
+2016-07-25 19:32:28	 - 	- running for their sustained support.
+2016-07-25 19:32:28	 - 	-
+2016-07-25 19:32:28	 - 	- In particular we would like to thank the sponsor
+2016-07-25 19:32:28	 - 	- of this server, details of which can be found above.
+2016-07-25 19:32:28	 - 	-
+2016-07-25 19:32:28	 - 	End of /MOTD command.
+2016-07-25 19:32:28	 - 	User mode [+i] by rndtx
+2016-07-25 19:33:05	 - 	You are now known as randalltux
+2016-07-25 19:33:05	 - 	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-07-25 19:33:11	 - 	MSG(nickserv): identify ************
+2016-07-25 19:33:12	 - 	NickServ (NickServ@services.): You are now identified for randalltux.
+2016-08-02 23:05:30	@	irc: connecting to server chat.freenode.net/6667...
+2016-08-02 23:05:30	@	irc: connected to chat.freenode.net/6667 (193.219.128.49)
+2016-08-02 23:05:31	@	sendak.freenode.net: *** Looking up your hostname...
+2016-08-02 23:05:31	@	sendak.freenode.net: *** Checking Ident
+2016-08-02 23:05:33	@	sendak.freenode.net: *** Couldn't look up your hostname
+2016-08-02 23:05:36	@	sendak.freenode.net: *** No Ident response
+2016-08-02 23:05:36	@	Welcome to the freenode Internet Relay Chat Network rndtx
+2016-08-02 23:05:36	@	Your host is sendak.freenode.net[193.219.128.49/6667], running version ircd-seven-1.1.3
+2016-08-02 23:05:37	@	This server was created Wed Jul 15 2015 at 16:52:09 UTC
+2016-08-02 23:05:37	@	sendak.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2016-08-02 23:05:37	@	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2016-08-02 23:05:37	@	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2016-08-02 23:05:37	@	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2016-08-02 23:05:37	@	There are 159 users and 87349 invisible on 27 servers
+2016-08-02 23:05:37	@	24 :IRC Operators online
+2016-08-02 23:05:37	@	12 :unknown connection(s)
+2016-08-02 23:05:37	@	57302 :channels formed
+2016-08-02 23:05:37	@	I have 7076 clients and 1 servers
+2016-08-02 23:05:37	@	7076 10226 :Current local users 7076, max 10226
+2016-08-02 23:05:37	@	87508 91042 :Current global users 87508, max 91042
+2016-08-02 23:05:37	@	Highest connection count: 10227 (10226 clients) (951596 connections received)
+2016-08-02 23:05:37	@	- sendak.freenode.net Message of the Day -
+2016-08-02 23:05:37	@	- Welcome to sendak.freenode.net in Vilnius, Lithuania, EU.
+2016-08-02 23:05:37	@	- Thanks to Microlink Lietuva (http://www.microlink.lt) for providing this
+2016-08-02 23:05:37	@	- server!
+2016-08-02 23:05:37	@	-
+2016-08-02 23:05:37	@	- SENDAK, MAURICE [1928-2012].  The author of Seven Little
+2016-08-02 23:05:37	@	- Monsters and Where the Wild Things Are, Maurice Sendak was
+2016-08-02 23:05:37	@	- born in Brooklyn, NY, US, to a family of poor Polish
+2016-08-02 23:05:37	@	- immigrants who moved to the US before World War II.  He
+2016-08-02 23:05:37	@	- became an illustrator while in high school.
+2016-08-02 23:05:37	@	-
+2016-08-02 23:05:37	@	- Welcome to freenode - supporting the free and open source
+2016-08-02 23:05:37	@	- software communities since 1998.
+2016-08-02 23:05:37	@	-
+2016-08-02 23:05:37	@	- By connecting to freenode you indicate that you have read and
+2016-08-02 23:05:37	@	- accept our policies as set out on http://www.freenode.net
+2016-08-02 23:05:37	@	- freenode runs an open proxy scanner. Please join #freenode for
+2016-08-02 23:05:37	@	- any network-related questions or queries, where a number of
+2016-08-02 23:05:37	@	- volunteer staff and helpful users will be happy to assist you.
+2016-08-02 23:05:37	@	-
+2016-08-02 23:05:37	@	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2016-08-02 23:05:37	@	- together with like-minded FOSS enthusiasts for talks and
+2016-08-02 23:05:37	@	- real-life collaboration.
+2016-08-02 23:05:37	@	-
+2016-08-02 23:05:37	@	- We would like to thank Private Internet Access
+2016-08-02 23:05:37	@	- (https://www.privateinternetaccess.com/) and the other
+2016-08-02 23:05:37	@	- organisations that help keep freenode and our other projects
+2016-08-02 23:05:37	@	- running for their sustained support.
+2016-08-02 23:05:37	@	-
+2016-08-02 23:05:37	@	- In particular we would like to thank the sponsor
+2016-08-02 23:05:37	@	- of this server, details of which can be found above.
+2016-08-02 23:05:37	@	-
+2016-08-02 23:05:37	@	End of /MOTD command.
+2016-08-02 23:05:37	@	User mode [+i] by rndtx
+2016-08-02 23:06:15	@	You are now known as randalltux
+2016-08-02 23:06:15	@	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-08-02 23:06:26	@	MSG(NickServ): identify ************
+2016-08-02 23:06:27	@	NickServ (NickServ@services.): You are now identified for randalltux.
+2016-08-03 00:21:48	@	irc: disconnected from server
+2016-08-03 19:27:35	@	irc: connecting to server chat.freenode.net/6667...
+2016-08-03 19:27:36	@	irc: connected to chat.freenode.net/6667 (94.125.182.252)
+2016-08-03 19:27:36	@	adams.freenode.net: *** Looking up your hostname...
+2016-08-03 19:27:37	@	adams.freenode.net: *** Checking Ident
+2016-08-03 19:27:37	@	adams.freenode.net: *** Couldn't look up your hostname
+2016-08-03 19:27:42	@	adams.freenode.net: *** No Ident response
+2016-08-03 19:27:42	@	Welcome to the freenode Internet Relay Chat Network rndtx
+2016-08-03 19:27:42	@	Your host is adams.freenode.net[94.125.182.252/6667], running version ircd-seven-1.1.3
+2016-08-03 19:27:42	@	This server was created Mon Jul 20 2015 at 16:58:36 UTC
+2016-08-03 19:27:42	@	adams.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2016-08-03 19:27:42	@	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2016-08-03 19:27:42	@	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2016-08-03 19:27:42	@	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2016-08-03 19:27:42	@	There are 159 users and 85737 invisible on 27 servers
+2016-08-03 19:27:42	@	24 :IRC Operators online
+2016-08-03 19:27:42	@	7 :unknown connection(s)
+2016-08-03 19:27:42	@	57339 :channels formed
+2016-08-03 19:27:42	@	I have 4408 clients and 1 servers
+2016-08-03 19:27:42	@	4408 12000 :Current local users 4408, max 12000
+2016-08-03 19:27:42	@	85896 97578 :Current global users 85896, max 97578
+2016-08-03 19:27:42	@	Highest connection count: 12001 (12000 clients) (1795108 connections received)
+2016-08-03 19:27:42	@	- adams.freenode.net Message of the Day -
+2016-08-03 19:27:42	@	- Welcome to adams.freenode.net. Thanks to ATW Internet Kft
+2016-08-03 19:27:42	@	- (http://www.atw.hu) for sponsoring this server!
+2016-08-03 19:27:42	@	-
+2016-08-03 19:27:42	@	- ADAMS, DOUGLAS (1952-2001).  Author of The Hitch Hikers Guide
+2016-08-03 19:27:42	@	- to the Galaxy and many other witty and humourous books,
+2016-08-03 19:27:42	@	- portrayed in his uniquely British irony. He is sorely missed
+2016-08-03 19:27:42	@	- by many millions of devoted fans. "So long and thanks for all
+2016-08-03 19:27:42	@	- the books!"
+2016-08-03 19:27:42	@	-
+2016-08-03 19:27:42	@	- Welcome to freenode - supporting the free and open source
+2016-08-03 19:27:42	@	- software communities since 1998.
+2016-08-03 19:27:42	@	-
+2016-08-03 19:27:42	@	- By connecting to freenode you indicate that you have read and
+2016-08-03 19:27:42	@	- accept our policies as set out on http://www.freenode.net
+2016-08-03 19:27:42	@	- freenode runs an open proxy scanner. Please join #freenode for
+2016-08-03 19:27:43	@	- any network-related questions or queries, where a number of
+2016-08-03 19:27:43	@	- volunteer staff and helpful users will be happy to assist you.
+2016-08-03 19:27:43	@	-
+2016-08-03 19:27:43	@	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2016-08-03 19:27:43	@	- together with like-minded FOSS enthusiasts for talks and
+2016-08-03 19:27:43	@	- real-life collaboration.
+2016-08-03 19:27:43	@	-
+2016-08-03 19:27:43	@	- We would like to thank Private Internet Access
+2016-08-03 19:27:43	@	- (https://www.privateinternetaccess.com/) and the other
+2016-08-03 19:27:43	@	- organisations that help keep freenode and our other projects
+2016-08-03 19:27:43	@	- running for their sustained support.
+2016-08-03 19:27:43	@	-
+2016-08-03 19:27:43	@	- In particular we would like to thank the sponsor
+2016-08-03 19:27:43	@	- of this server, details of which can be found above.
+2016-08-03 19:27:43	@	-
+2016-08-03 19:27:43	@	End of /MOTD command.
+2016-08-03 19:27:43	@	User mode [+i] by rndtx
+2016-08-03 19:27:47	@	irc: disconnected from server

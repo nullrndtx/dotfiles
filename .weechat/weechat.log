@@ -1,0 +1,20 @@
+[2016-08-08 15:22:46] WeeChat 1.5 (compiled on May 11 2016 07:10:34)
+[2016-08-08 15:22:46] Reading configuration file sec.conf
+[2016-08-08 15:22:46] Reading configuration file weechat.conf
+[2016-08-08 15:22:46] Reading configuration file plugins.conf
+[2016-08-08 15:22:47] Reading configuration file charset.conf
+[2016-08-08 15:22:47] Reading configuration file logger.conf
+[2016-08-08 15:22:47] Reading configuration file exec.conf
+[2016-08-08 15:22:47] Reading configuration file trigger.conf
+[2016-08-08 15:22:47] Reading configuration file aspell.conf
+[2016-08-08 15:22:47] Reading configuration file alias.conf
+[2016-08-08 15:22:47] Reading configuration file xfer.conf
+[2016-08-08 15:22:47] Reading configuration file irc.conf
+[2016-08-08 15:22:47] Reading configuration file relay.conf
+[2016-08-08 15:22:47] Reading configuration file script.conf
+[2016-08-08 15:22:48] irc: connecting to server irc.dracos-linux.org/6667...
+[2016-08-08 15:23:09] Reading configuration file buffers.conf
+[2016-08-08 15:23:13] Reading configuration file colorize_nicks.conf
+[2016-08-08 15:38:10] Terminal lost, exiting WeeChat...
+[2016-08-08 15:38:10] Signal SIGHUP received, exiting WeeChat...
+[2016-08-08 15:38:53] Signal SIGHUP received, exiting WeeChat...
