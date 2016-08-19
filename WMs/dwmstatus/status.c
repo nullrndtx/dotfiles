@@ -19,8 +19,8 @@ int getdatetime(char *status, size_t size) {
 	result = time(NULL);
 	resulttm = localtime(&result);
 
-    return strftime(status, size, " rndtx @ archlinux // %A %d // %I:%M %p ", resulttm);
-//    return strftime(status, size, " %I.%M  on  %A ", resulttm);
+//    return strftime(status, size, " rndtx @ archlinux // %A %d // %I:%M %p ", resulttm);
+    return strftime(status, size, " %A %d // %I:%M %p ", resulttm);
 
 }
 

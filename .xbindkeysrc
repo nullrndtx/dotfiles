@@ -1,0 +1,23 @@
+"urxvt"
+    m:0x41 + c:36
+    Shift+Mod4 + Return
+
+
+"dmenu_run -i -b -h 20 -class dmenu -p ' grOS-MINI >  '"
+    m:0x41 + c:33
+    Shift+Mod4 + p
+
+"dmenu_run -b"
+    mod4 + p
+
+"scrot ~/pictures/screens/%I-%m-%S.png"
+    Print
+
+"dzvol -i 3"
+    XF86AudioRaiseVolume
+
+"dzvol -d 3"
+    XF86AudioLowerVolume
+
+"dzvol -t"
+    XF86AudioMute
