@@ -3,6 +3,7 @@
  */
 
 #include "restart.c"
+#include "moveresize.c"
 
 // Appearance
 static const char font[]            		= "drift:Medium:pixelsize=8:lcdfilter=lcddefault:hintstyle=hintnone:hinting=false:rgba=rgb:antialias=true:autohint=false";
@@ -61,8 +62,8 @@ static Key keys[] = {
 	{ MODKEY,                       XK_t,           setlayout,      	{.v = &layouts[0]} },
 	{ MODKEY,                       XK_m,           setlayout,      	{.v = &layouts[1]} },
 	{ MODKEY,                       XK_f,     		setlayout,      	{.v = &layouts[2]} },
-	{ MODKEY,                       XK_u,      setlayout,      {.v = &layouts[3]} },
-	{ MODKEY,                       XK_o,      setlayout,      {.v = &layouts[4]} },
+	{ MODKEY,                       XK_u,           setlayout,          {.v = &layouts[3]} },
+	{ MODKEY,                       XK_o,           setlayout,          {.v = &layouts[4]} },
 	{ MODKEY,                       XK_equal,       incnmaster,     	{.i = +1 } },
 	{ MODKEY,                       XK_minus,       incnmaster,     	{.i = -1 } },
 	{ MODKEY,                       XK_Return, 		zoom,           	{0} },
@@ -78,11 +79,23 @@ static Key keys[] = {
 	TAGKEYS(                        XK_4,                            	3)
 	{ MODKEY|ShiftMask,             XK_q,           quit,           	{0} },
 	{ MODKEY|ShiftMask, 			XK_r, 			restart, 			{0} },
+
+    /* Move */
+    { MODKEY,                       XK_Down,        moveresize,         {.v = "0x 25y 0w 0h"}},
+    { MODKEY,                       XK_Up,          moveresize,         {.v = "0x -2y 0w 0h"}},
+    { MODKEY,                       XK_Right,       moveresize,         {.v = "25x 0y 0w 0h"}},
+    { MODKEY,                       XK_Left,        moveresize,         {.v = "-25x 0y 0w 0h"}},
+
+    /* resize */
+    { MODKEY|ShiftMask,             XK_Down,        moveresize,         {.v = "0x 0y 0w 25h"}},
+    { MODKEY|ShiftMask,             XK_Up,          moveresize,         {.v = "0x 0y 0w -25h"}},
+    { MODKEY|ShiftMask,             XK_Right,       moveresize,         {.v = "0x 0y 25w 0h"}},
+    { MODKEY|ShiftMask,             XK_Left,        moveresize,         {.v = "0x 0y -25w 0h"}},
 };
 
 // Button Definitions
 static Button buttons[] = {
-	// click                event mask      button          function        argument 
+	// click                event mask      button          function        argument
 	{ ClkLtSymbol,          0,              Button1,        setlayout,      {0} },
 	{ ClkTagBar,            0,              Button1,        view,           {0} },
     { ClkTagBar,            0,              Button3,        toggleview,     {0} },
