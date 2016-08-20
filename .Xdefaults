@@ -1,0 +1,37 @@
+!-- General Settings --
+Xft.dpi:                    96
+Xft.antialias:              true
+Xft.hinting:                false
+Xft.rgba:                   rgb
+Xft.autohint:               false
+Xft.hintstyle:              hintnone
+Xft.lcdfilter:              lcddefault
+
+! Fonts --
+URxvt*font: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+URxvt*boldFont: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+URxvt*italicFont: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+URxvt*bolditalicFont: -lucy-tewi-medium-r-normal-*-*-*-*-*-*-*-*-*
+
+! URxvt Settings --
+URxvt*cursorUnderline:      true
+URxvt.scrollBar:            false
+URxvt.lineSpace:            3
+URxvt*cursorBlink:          false
+URxvt.internalBorder:       20
+URxvt.geometry:             109x23
+
+! Dzen2 --
+dzen2.font:                 -*-drift-*-*-*-*-10-*-*-*-*-*-*-*
+dzen2.foreground:           #DEDED6
+dzen2.background:           #121417
+
+! Dmenu2 --
+dmenu.font:                 -*-drift-*-*-*-*-10-*-*-*-*-*-*-*
+dmenu.background:           #121417
+dmenu.foreground:           #DEDED6
+dmenu.selbackground:        #2B3135
+dmenu.selforeground:        #DEDED6
+
+! Color --
+#include "/home/rndtx/colors/mine"
