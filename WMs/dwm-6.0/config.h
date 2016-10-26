@@ -6,7 +6,7 @@
 #include "moveresize.c"
 
 // Appearance
-static const char font[]            		= "drift:Medium:pixelsize=8:lcdfilter=lcddefault:hintstyle=hintnone:hinting=false:rgba=rgb:antialias=true:autohint=false";
+static const char font[]            		= "GohuFont:Medium:pixelsize=8:lcdfilter=lcddefault:hintstyle=hintnone:hinting=false:rgba=rgb:antialias=true:autohint=false";
 
 static const char normbordercolor[] 		= "#2b3135";
 static const char selbordercolor[]  		= "#4c5356";
