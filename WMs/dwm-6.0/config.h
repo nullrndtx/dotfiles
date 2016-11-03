@@ -1,12 +1,12 @@
 /*
- * pacthes
+þ * pacthes
  */
 
 #include "restart.c"
 #include "moveresize.c"
 
 // Appearance
-static const char font[]            		= "GohuFont:Medium:pixelsize=8:lcdfilter=lcddefault:hintstyle=hintnone:hinting=false:rgba=rgb:antialias=true:autohint=false";
+static const char font[]            		= "MonteCarlo:Sans:pixelsize=8:lcdfilter=lcddefault:hintstyle=hintnone:hinting=false:rgba=rgb:antialias=true:autohint=false";
 
 static const char normbordercolor[] 		= "#2b3135";
 static const char selbordercolor[]  		= "#4c5356";
@@ -25,11 +25,12 @@ static const Bool showbar           		= True;
 static const Bool topbar            		= True;
 
 // Tags
-static const char *tags[] = { " main ", " dev ", " media ", " other "};
+static const char *tags[] = { " main ", " dev ", " chat ", " media ", " misc "};
 
 static const Rule rules[] = {
 	// class       instance      title     tags mask     isfloating    monitor
 	{ "Gcolor2",     NULL,       NULL,       0,            True,        -1 },
+  { "Thunar",      NULL,       NULL,       0,            True,        -1 },
 	{ "Viewnior",    NULL,       NULL,       0,            True,        -1 },
 	{ "Firefox",     NULL,       NULL,       1,            False,       -1 },
 };
@@ -43,8 +44,8 @@ static const Layout layouts[] = {
 	{ " [T] ",  tile },
 	{ " [M] ",  monocle },
 	{ " [F] ",  NULL },
-	{ "|M|",      centeredmaster },
-	{ ">M>",      centeredfloatingmaster },
+	{ " |M| ",      centeredmaster },
+	{ " >M> ",      centeredfloatingmaster },
 };
 
 // Key Definitions
@@ -77,6 +78,7 @@ static Key keys[] = {
 	TAGKEYS(                        XK_2,                            	1)
 	TAGKEYS(                        XK_3,                            	2)
 	TAGKEYS(                        XK_4,                            	3)
+	TAGKEYS(						XK_5,								4)
 	{ MODKEY|ShiftMask,             XK_q,           quit,           	{0} },
 	{ MODKEY|ShiftMask, 			XK_r, 			restart, 			{0} },
 
